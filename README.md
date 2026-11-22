@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+This is David a young man passionate for technology. I arrived a little bit late to this but want to discover what I can build by my own. 
+Lately I am working with different project to apply that knowledge I have been getting throughout time. 
+
 <!--
 **KaonyKampus/KaonyKampus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
