@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is David a young man passionate for technology. I arrived a little bit late to this but want to discover what I can build by my own. 
+This is David a young man passionate about technology. I arrived a little bit late to this but want to discover what I can build by my own. 
 Lately I am working with different project to apply that knowledge I have been getting throughout time. 
 
 <!--
